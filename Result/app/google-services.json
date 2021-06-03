@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1062132423671",
+    "firebase_url": "https://sherigcare-3c9d8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sherigcare-3c9d8",
+    "storage_bucket": "sherigcare-3c9d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062132423671:android:71416e3c7dfd5c9cd7ecf2",
+        "android_client_info": {
+          "package_name": "com.example.result"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062132423671-as9njfhdtphk1bub2oi3cuhrque3sdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyz7FVpsb95PfWinNIadnDI8yfE6Vou_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062132423671-as9njfhdtphk1bub2oi3cuhrque3sdil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062132423671:android:102bdf318ec3c0d6d7ecf2",
+        "android_client_info": {
+          "package_name": "com.example.sherigcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062132423671-as9njfhdtphk1bub2oi3cuhrque3sdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyz7FVpsb95PfWinNIadnDI8yfE6Vou_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062132423671-as9njfhdtphk1bub2oi3cuhrque3sdil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062132423671:android:e83b63ff8a5d3c1dd7ecf2",
+        "android_client_info": {
+          "package_name": "com.example.uploadresult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062132423671-as9njfhdtphk1bub2oi3cuhrque3sdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyz7FVpsb95PfWinNIadnDI8yfE6Vou_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062132423671-as9njfhdtphk1bub2oi3cuhrque3sdil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
